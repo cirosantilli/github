@@ -18,7 +18,9 @@ details about use cases etc, then head over to the issues list.
 
 Post an issue if you have an issue or feature request for GitHub.
 **But you should also email support@github.com, since this repo is
-strictly for our own (unofficial) tracking purposes.**
+strictly for our own (unofficial) tracking purposes.** If they reply,
+(and they usually do, quickly) and if it is not a security threat to
+GitHub, add their reply to the issue.
 
 ## Statement of Intent
 
